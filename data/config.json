@@ -1,0 +1,33 @@
+{
+    "title": "Planty",
+    "favicon": "images/favicon.png",
+    "logo_dark": "images/logo_dark2.png",
+    "logo_light": "images/logo_white2-f6a4ef31.png",
+    "hamburger_background_image": "/images/leaf-light-grey.svg",
+    "bg_image_primary": "images/product_left_background2.jpg",
+    "bg_image_primary_opacity": 60,
+    "bg_image_secondary": "/images/leaf-light-grey.svg",
+    "bg_image_product": "/images/leaf.svg",
+    "snipcart_api_key": "ZjNlZTIwNjUtNDYzNy00NmVkLTk3OTktZGMxYmEwNzBmNTdlNjM3NjczMTYzMTcyODU3MTA2",
+    "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
+    "palette": "yellow",
+    "main_menu": [
+        {
+            "title": "Magazin",
+            "url": "/store",
+            "style": "link",
+            "arrow": false
+        },
+        {
+            "title": "Despre",
+            "url": "/about",
+            "style": "link"
+        },
+        {
+            "title": "FAQ",
+            "url": "/faq",
+            "style": "link"
+        }
+    ],
+    "domain": "https://incredible-bee-20fc1.netlify.app"
+}
