@@ -4,7 +4,7 @@ This is a [Hugo](https://gohugo.io) site using Git as a [CMS](https://en.wikiped
 
 You can [create a site](https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
 
-Project demo: [Confy you](https://confy-you.netlify.app/)
+### Demo: [Confy you](https://confy-you.netlify.app/)
 
 <details>
         <summary>🎨 &nbsp;<strong>Look</strong></summary>
